@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started
 
 ## Requirements
